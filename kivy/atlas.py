@@ -144,6 +144,7 @@ import json
 from os.path import basename, dirname, join, splitext
 from kivy.event import EventDispatcher
 from kivy.logger import Logger
+# noinspection PyUnresolvedReferences
 from kivy.properties import AliasProperty, DictProperty, ListProperty
 import os
 

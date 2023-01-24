@@ -423,6 +423,7 @@ from kivy.lang import Builder
 from kivy.resources import resource_find
 from kivy.utils import platform
 from kivy.uix.widget import Widget
+# noinspection PyUnresolvedReferences
 from kivy.properties import ObjectProperty, StringProperty
 from kivy.setupconfig import USE_SDL2
 
